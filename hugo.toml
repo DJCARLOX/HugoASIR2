@@ -1,0 +1,4 @@
+baseURL = 'https://files.000webhost.com'
+languageCode = 'en-us'
+title = 'Charlotte Hornets Site'
+theme = "binario"
